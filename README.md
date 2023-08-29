@@ -26,3 +26,12 @@ Enter email
 Enter password(minimum 8 characters)
 OTP (Only 1234 is valid OTP)
 ```
+
+**Video**
+
+
+
+https://github.com/ashishkanhasoft/FlutterOnboardingUI/assets/67505131/03197022-253e-4594-9a65-87a34d538387
+
+
+
