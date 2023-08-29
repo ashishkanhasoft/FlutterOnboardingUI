@@ -31,7 +31,8 @@ OTP (Only 1234 is valid OTP)
 
 
 
-https://github.com/ashishkanhasoft/FlutterOnboardingUI/assets/67505131/03197022-253e-4594-9a65-87a34d538387
+https://github.com/ashishkanhasoft/FlutterOnboardingUI/assets/67505131/e7109b22-8197-4e25-8786-99e24239b7aa
+
 
 
 
